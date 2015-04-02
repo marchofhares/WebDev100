@@ -1,0 +1,78 @@
+.h2 {
+	width:200%;
+	margin:0 auto;
+}
+
+h3 {
+	font-size:80%;
+	color:black;
+	width:55%;
+}
+
+#Header {
+	font-size:300%;
+	text-align:center;
+}
+
+#Banner {
+	padding-top:5%;
+	font-size:200%;
+	width:100%;
+	margin:0 auto;
+}
+
+#Banner:hover {
+	padding-top:5%;
+	font-size:205%;
+	width:100%;
+	margin:0 auto;
+}
+
+.List:hover {
+	font-size:105%;
+	font-style:oblique;
+	color:green;
+}
+
+.Link {
+	background-color:yellow;
+	color:black;
+}
+
+.Link:hover {
+	background-color:yellow;
+	color:blue;	
+	font-size:110%;
+}
+
+.LeftContainer {
+	padding-top:25px;
+	width:15%;
+	float:left;
+	position:fixed;
+}
+
+.Container {
+	padding-top:25px;
+	padding-left:15%;
+	float:right;
+	height:100%;
+	width:85%;
+	margin:0 auto;
+}
+
+.GalleryHead {
+	width:84%;
+	float:right;
+	font-size:120%;
+	padding-top:25px;
+}
+
+.Thumbnail {
+	float:left;
+	padding:5px;
+	border-radius:10px;
+	max-width:23%;
+	min-width:23%;
+	height:300px;
+}
